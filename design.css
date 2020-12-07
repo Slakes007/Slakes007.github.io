@@ -1,0 +1,205 @@
+body img {
+max-width: 100%;
+height: auto;
+}
+
+body{
+background-image: url("pics/ds5.jpg");
+background-size: cover; 
+background-repeat:repeat;
+background-position: 0% 0%;	
+background-attachment: fixed;
+font-family: Arial;
+color:#f2f2f2;
+}
+
+
+div .head{
+margin-left: 0%;
+padding-left: 0%;
+font-size: 3vh;
+font-family:"Times New Roman";
+}
+
+
+div.first{
+height:auto;
+width:80%;
+margin-left: 0%;
+padding-left: 0%;
+background:rgba(242,242,242,0.1);
+}
+
+div.first a{
+font-size: 3vh;
+text-decoration:none; 
+color:#f2f2f2;	
+}
+
+div.first a:hover{
+font-size: 3.3vh;
+color:#F3BC70;	
+}
+
+
+
+.first p {
+font-size: 3vh;	
+}
+
+.first h1{
+color: #E88C0C;
+text-decoration:underline;
+font-size: 6vh;	
+}
+
+
+div .first ul{
+list-style: none ;
+font-size: 2.5vh;
+font-weight: bold ;	
+	
+	
+}
+
+div .first ul >p{
+text-decoration:underline;	
+}
+
+div.navi{
+margin-left: 80%;
+position: fixed;
+min-width:300px;
+top: 100px;
+line-height:70px;
+}
+
+.navi ul{
+list-style: none;
+font-size: 4vh;
+position: fixed;
+}
+
+.navi a:hover{
+color: #E88C0C;
+font-size: 4.5vh;
+}
+
+.navi a {
+text-decoration: none;
+color: lightgray;
+}
+
+.bosspic{
+height: 45%;
+width:	50%;
+}
+
+.facts {
+color:	#F3BC70	;
+font-size: 3.5vh;
+}
+
+.factspontiff {
+color:	#F3BC70	;
+font-size: 3.5vh;
+text-decoration:underline;
+}
+
+div .links a{
+text-decoration: none;
+font-size: 3vh;
+color:white;
+}
+
+div .links a:hover{
+font-size: 3.5vh;
+color:#F3BC70; 	
+}
+
+
+
+
+.cuteaward{
+width:35%;
+height: 40%;	
+}
+
+.award{
+width:45%;
+height:15%;	
+}
+
+
+.cutestaward{
+width:50%;
+height:40%;	
+}
+
+.form{
+width:30%;	
+border: 2px solid #F3BC70 ;
+border-radius: 2px;
+outline:none;
+-webkit-transition: width 0.4s ease-in-out;
+transition: width 0.4s ease-in-out;
+background-color: rgb(255, 255, 255,0.1)
+}
+
+
+.form:focus{
+width:80%;	
+height:15%;
+}
+
+.button{	
+border:none;
+transition:0.5s;
+text-decoration:none;
+}
+
+.button:hover{
+background-color:rgb(232, 140, 12,0.3);	
+}
+
+	
+
+
+	
+div .footer {
+text-align: center;		
+}
+
+div .footer a {	
+text-decoration:none;
+color:#f2f2f2;
+}
+
+div .footer a:hover{
+color:#F3BC70;	
+}
+
+.logo{
+height: 7%;
+width: 17%;	
+position: fixed;
+margin-right: 80%;
+}
+.logos{
+margin-left: 81%;
+margin-top: 12%;
+position:fixed;
+top: -100px;
+min-width:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
